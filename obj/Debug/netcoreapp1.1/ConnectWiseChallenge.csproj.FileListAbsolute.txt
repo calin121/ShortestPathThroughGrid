@@ -1,0 +1,16 @@
+C:\Users\Calin\Desktop\ConnectWiseChallenge\bin\Debug\netcoreapp1.1\ConnectWiseChallenge.deps.json
+C:\Users\Calin\Desktop\ConnectWiseChallenge\bin\Debug\netcoreapp1.1\ConnectWiseChallenge.runtimeconfig.json
+C:\Users\Calin\Desktop\ConnectWiseChallenge\bin\Debug\netcoreapp1.1\ConnectWiseChallenge.runtimeconfig.dev.json
+C:\Users\Calin\Desktop\ConnectWiseChallenge\bin\Debug\netcoreapp1.1\ConnectWiseChallenge.dll
+C:\Users\Calin\Desktop\ConnectWiseChallenge\bin\Debug\netcoreapp1.1\ConnectWiseChallenge.pdb
+C:\Users\Calin\Desktop\ConnectWiseChallenge\obj\Debug\netcoreapp1.1\ConnectWiseChallenge.AssemblyInfo.cs
+C:\Users\Calin\Desktop\ConnectWiseChallenge\obj\Debug\netcoreapp1.1\ConnectWiseChallenge.dll
+C:\Users\Calin\Desktop\ConnectWiseChallenge\obj\Debug\netcoreapp1.1\ConnectWiseChallenge.pdb
+C:\Users\Calin\Desktop\Coding Challenges\ConnectWiseChallenge\bin\Debug\netcoreapp1.1\ConnectWiseChallenge.deps.json
+C:\Users\Calin\Desktop\Coding Challenges\ConnectWiseChallenge\bin\Debug\netcoreapp1.1\ConnectWiseChallenge.runtimeconfig.json
+C:\Users\Calin\Desktop\Coding Challenges\ConnectWiseChallenge\bin\Debug\netcoreapp1.1\ConnectWiseChallenge.runtimeconfig.dev.json
+C:\Users\Calin\Desktop\Coding Challenges\ConnectWiseChallenge\bin\Debug\netcoreapp1.1\ConnectWiseChallenge.dll
+C:\Users\Calin\Desktop\Coding Challenges\ConnectWiseChallenge\bin\Debug\netcoreapp1.1\ConnectWiseChallenge.pdb
+C:\Users\Calin\Desktop\Coding Challenges\ConnectWiseChallenge\obj\Debug\netcoreapp1.1\ConnectWiseChallenge.AssemblyInfo.cs
+C:\Users\Calin\Desktop\Coding Challenges\ConnectWiseChallenge\obj\Debug\netcoreapp1.1\ConnectWiseChallenge.dll
+C:\Users\Calin\Desktop\Coding Challenges\ConnectWiseChallenge\obj\Debug\netcoreapp1.1\ConnectWiseChallenge.pdb
